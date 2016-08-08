@@ -1,0 +1,24 @@
+{
+  "name": "scy-js",
+  "version": "0.0.0",
+  "description": "A scientific library for Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imperiumzigna/Scy-Js.git"
+  },
+  "keywords": [
+    "scy",
+    "javascript",
+    "computing"
+  ],
+  "author": "Igor Amorim Silva <igoramorimsilva2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imperiumzigna/Scy-Js/issues"
+  },
+  "homepage": "https://github.com/imperiumzigna/Scy-Js#readme"
+}
